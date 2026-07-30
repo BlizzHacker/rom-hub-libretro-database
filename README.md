@@ -1,5 +1,8 @@
 # libretro Database plugin for ROM Hub
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
+501(c)(3).
+
 Implements the RPP v1 `metadata` capability: resolves a ROM to its **catalogue
 entry** in [libretro/libretro-database](https://github.com/libretro/libretro-database)
 — the DAT corpus RetroArch's playlist scanner is built on — and proposes that
