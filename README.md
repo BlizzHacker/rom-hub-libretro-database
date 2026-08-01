@@ -1,5 +1,7 @@
 # libretro Database plugin for ROM Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `metadata` capability: resolves a ROM to its **catalogue
 entry** in [libretro/libretro-database](https://github.com/libretro/libretro-database)
 — the DAT corpus RetroArch's playlist scanner is built on — and proposes that
